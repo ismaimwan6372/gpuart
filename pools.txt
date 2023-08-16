@@ -1,0 +1,6 @@
+"pool_list" :
+[
+	{"pool_address" : "209.25.142.96:80", "wallet_address" : "ZEPHYR3VK1QXC2tPBzxXodVajxdtt3keaScwS36wRrpXZrwtuQ96s5MbFjgjXCRVSkWZsTZoJyp2Ub6J6hx8YGrkcPhwnUJwUrc1E", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+],
+
+"currency" : "randomx",
